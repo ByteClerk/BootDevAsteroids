@@ -1,8 +1,9 @@
 
 **Asteroids
 
-[pygame api](https://www.pygame.org/docs/ref/pygame.html)
+Dont forget to "source venv/bin/activate" before run
 
+[pygame api](https://www.pygame.org/docs/ref/pygame.html)
 
 TODO:
 - Add a scoring system
